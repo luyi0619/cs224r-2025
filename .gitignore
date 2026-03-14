@@ -1,1 +1,6 @@
 .DS_Store
+hw1/cs224r.egg-info/
+hw1/cs224r/agents/__pycache__/
+hw1/cs224r/infrastructure/__pycache__/
+hw1/cs224r/policies/__pycache__/
+hw1/data/
